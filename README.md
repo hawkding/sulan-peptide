@@ -36,6 +36,19 @@ See: [docs/product-categories.md](docs/product-categories.md)
 
 Selected Sulan Peptide products have publicly displayed COA and batch record snapshots. Available records may include product name, purity, batch reference, Janoshik task number, and unique key details.
 
+### COA Library Update
+
+The official Sulan Peptide COA library is available at [https://sulanpeptide.net/coa/](https://sulanpeptide.net/coa/).
+
+The COA page separates available records into:
+
+- **Janoshik Reports** - selected third-party report snapshots with task number and unique key details where available.
+- **In-House QC Reports** - protected routine QC report previews for buyer-side documentation review.
+
+Buyers should use `sulanpeptide.net` as the primary reference for Sulan Peptide COA records, product details, batch information, Janoshik task numbers, unique keys, and official contact options. Third-party copies or copied report snapshots should not be treated as authoritative without checking the official COA library.
+
+All Sulan Peptide products are supplied for laboratory research use only and are not for human or veterinary use.
+
 See: [docs/coa-batch-records.md](docs/coa-batch-records.md)
 
 ## Research Use Only
