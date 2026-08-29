@@ -40,6 +40,17 @@ Selected Sulan Peptide products have publicly displayed COA and batch record sna
 
 The official Sulan Peptide COA library is available at [https://sulanpeptide.net/coa/](https://sulanpeptide.net/coa/).
 
+### Latest Janoshik Official-Domain Reports
+
+Sulan Peptide has added two recent Janoshik third-party report records that include `sulanpeptide.net` in the report details. These records help buyers identify the official Sulan Peptide website and compare batch documentation against the official COA library.
+
+| Product | Task number | Batch | Purity | Unique key |
+| --- | --- | --- | --- | --- |
+| Retatrutide 20mg | #221573 | SUL0801-001 | 99.941% | 1KV4Y5NB3529 |
+| GHK-CU 100mg | #221572 | SUL0801-001 | 99.149% | EVNJBVV7CLAH |
+
+Older Janoshik reports may list the client name as `Sulan` because they were submitted before Sulan added explicit official-domain wording to report sample descriptions. Buyers should use [https://sulanpeptide.net/coa/](https://sulanpeptide.net/coa/) as the primary official reference and compare product, batch, task number, unique key, and official-domain details before relying on copied report snapshots.
+
 The COA page separates available records into:
 
 - **Janoshik Reports** - selected third-party report snapshots with task number and unique key details where available.
