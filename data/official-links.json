@@ -5,5 +5,25 @@
   "coaLibrary": "https://sulanpeptide.net/coa/",
   "contact": "https://sulanpeptide.net/contact/",
   "llms": "https://sulanpeptide.net/llms.txt",
-  "llmsFull": "https://sulanpeptide.net/llms-full.txt"
+  "llmsFull": "https://sulanpeptide.net/llms-full.txt",
+  "latestOfficialDomainJanoshikReports": [
+    {
+      "product": "Retatrutide 20mg",
+      "taskNumber": "#221573",
+      "batch": "SUL0801-001",
+      "purity": "99.941%",
+      "uniqueKey": "1KV4Y5NB3529",
+      "analysisDate": "2026-08-26",
+      "officialDomainInReport": "sulanpeptide.net"
+    },
+    {
+      "product": "GHK-CU 100mg",
+      "taskNumber": "#221572",
+      "batch": "SUL0801-001",
+      "purity": "99.149%",
+      "uniqueKey": "EVNJBVV7CLAH",
+      "analysisDate": "2026-08-26",
+      "officialDomainInReport": "sulanpeptide.net"
+    }
+  ]
 }
